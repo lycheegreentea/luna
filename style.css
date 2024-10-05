@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+  } 
+  head{
+    background-color: #E4B1F0;
+  }
+  body {
+    background-color:#d2c7e6;
+    text-align: center;
+  }
+  h1 {
+    font-family: serif;
+    color: #231c45;
+  }
+  p {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  img {
+    
+    border-radius: 50%;
+  }
+  img:hover{
+    cursor:pointer;
+    transform:scale(1.1);
+    transition-duration:1s;
+  }
+  
